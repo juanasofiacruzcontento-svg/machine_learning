@@ -1,0 +1,2 @@
+model,accuracy,mcc,roc_auc,cv_f1,cv_roc_auc,cv_precision,cv_recall,best_params,n_features_used,usa_lasso_feat
+random_forest,0.898,0.792,0.941,0.873,0.942,0.833,0.918,"{'model__max_depth': 15, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 5, 'model__n_estimators': 100}",13,False

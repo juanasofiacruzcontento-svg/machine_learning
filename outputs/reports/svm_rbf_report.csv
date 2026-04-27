@@ -1,0 +1,2 @@
+model,accuracy,mcc,roc_auc,cv_f1,cv_roc_auc,cv_precision,cv_recall,best_params,n_features_used,usa_lasso_feat
+svm_rbf,0.873,0.736,0.898,0.843,0.916,0.812,0.88,"{'model__C': 10, 'model__gamma': 'auto'}",12,True
